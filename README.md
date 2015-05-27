@@ -1,1 +1,1 @@
-# jquerry-one-page-filter
+# jquery-one-page-filter
